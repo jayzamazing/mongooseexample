@@ -1,0 +1,29 @@
+{
+  "name": "mongooseexample",
+  "version": "1.0.0",
+  "description": "sdaf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayzamazing/mongooseexample.git"
+  },
+  "keywords": [
+    "mongoose",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Adrian J Lopez <adrianjaylopez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayzamazing/mongooseexample/issues"
+  },
+  "homepage": "https://github.com/jayzamazing/mongooseexample#readme",
+  "dependencies": {
+    "mongoose": "^4.5.4"
+  }
+}
